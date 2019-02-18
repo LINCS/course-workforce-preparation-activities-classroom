@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="7394" version="2013110501">
+  <modulename>quiz</modulename>
+  <sectionid>2031</sectionid>
+  <sectionnumber>3</sectionnumber>
+  <idnumber></idnumber>
+  <added>1505272256</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <groupmembersonly>0</groupmembersonly>
+  <completion>2</completion>
+  <completiongradeitemnumber>0</completiongradeitemnumber>
+  <completionview>1</completionview>
+  <completionexpected>0</completionexpected>
+  <availablefrom>0</availablefrom>
+  <availableuntil>0</availableuntil>
+  <showavailability>1</showavailability>
+  <showdescription>0</showdescription>
+  <availability_info>
+    <availability id="3793">
+      <sourcecmid>7383</sourcecmid>
+      <requiredcompletion>1</requiredcompletion>
+      <gradeitemid>$@NULL@$</gradeitemid>
+      <grademin>$@NULL@$</grademin>
+      <grademax>$@NULL@$</grademax>
+    </availability>
+  </availability_info>
+</module>

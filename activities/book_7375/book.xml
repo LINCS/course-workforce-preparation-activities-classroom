@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="175" moduleid="7375" modulename="book" contextid="29045">
+  <book id="175">
+    <name>Workforce Preparation Activities across Resources</name>
+    <intro>&lt;p&gt;Workforce Preparation Activities across Resources&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505163057</timecreated>
+    <timemodified>1505355893</timemodified>
+    <chapters>
+      <chapter id="1242">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Different terms, same skills: Mapping workforce preparation activities across the resources</title>
+        <content>&lt;p&gt;In course #1, you reviewed four different tools that are designed to help you incorporate workforce preparation activities into your lessons. These tools are built upon similar skill frameworks, but use slightly different terminology. They provide checklists of employability, transition, college, career, and life skills that overlap with workforce preparation skills delineated in WIOA. These materials also suggest activities for teaching the skills and for informally assessing students’ demonstration of them. This table, duplicated from course #1, summarizes workforce preparation activities across all four resources.&lt;/p&gt;
+&lt;table align="center" style="border: 1px solid #000000; background-color: #ffffff;" border="1" rules="all" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;&lt;/thead&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080; background-color: #ffffff;"&gt;&lt;b&gt;Workforce Preparation&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;&lt;span class="nolink"&gt;Employability Skills Framework&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;Transition Integration Framework (TIF)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;ELA Guide&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="color: #000080;"&gt;&lt;b&gt;NC – NET Toolkit&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Basic Academic Skills&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Applied Academic&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Adaptability and lifelong learning?&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Critical Thinking&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Critical Thinking&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Critical Thinking&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Solve Problems&lt;/p&gt;
+&lt;p&gt;Argue for points and negotiate among positions&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Problem Solving and decision making&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Digital Literacy&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Using Technology&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Self-Management&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Personal Qualities&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Self-management Learning Strategies&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Plan and follow through on tasks&lt;/p&gt;
+&lt;p&gt;Demonstrate self-efficacy, self-advocacy, direction&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Initiative and dependability&lt;/p&gt;
+&lt;p&gt;Adaptability and lifelong learning?&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Utilizing Resources&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Managing Resources&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Using Information&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Information Use&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Collect organize, interpret information&lt;/p&gt;
+&lt;p&gt;Share information and ideas with others&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Communication&lt;/p&gt;
+&lt;p&gt;Information processing&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Working with Others&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Interpersonal Skills, Communication&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Effective Communication&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Share information and ideas with others&lt;/p&gt;
+&lt;p&gt;Argue for points and negotiate among positions&lt;/p&gt;
+&lt;p&gt;Solve problems&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Interpersonal skills and teamwork&lt;/p&gt;
+&lt;p&gt;Communication&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Understanding Systems&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Systems Thinking&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Navigating Systems&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;" scope="row"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Transition and Other Employability Skills&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Developing a Future Pathway&lt;/p&gt;
+&lt;p&gt;Learning Strategies&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Conduct activities in a professional manner&lt;/p&gt;
+&lt;p&gt;Demonstrate self-efficacy, self-advocacy, and direction&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="125" style="border: 1px solid #000000; background-color: #ffffff; text-align: center;"&gt;
+&lt;p&gt;Integrity and professionalism&lt;/p&gt;
+&lt;p&gt;Entrepreneurship&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to Workforce Preparation Activities &amp;amp; Academic Alignment to continue.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1508950537</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1243">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 1 Overview and Learning Objectives</title>
+        <content>&lt;h3&gt;Overview and Learning Objectives&lt;/h3&gt;
+&lt;p&gt;Welcome to Session 1: Best Practices for Teaching Employability Skills.&lt;/p&gt;
+&lt;p&gt;In course #1, &lt;i&gt;Introduction to Workforce Preparation and Employability Skills&lt;/i&gt;, we identified and defined the Workforce Preparation Activities (WPA) that are delineated in the &lt;a href="$@GLOSSARYVIEWBYID*7399@$&amp;amp;mode=entry&amp;amp;hook=89" target="_blank"&gt;Workforce Innovation and Opportunity Act (WIOA)&lt;/a&gt;. &lt;span&gt; &lt;/span&gt;This course is designed to expand upon that introduction. This session will expose you to specific examples for incorporating employability skills into curriculum and instruction, so you can best meet the current needs of your adult learners.&lt;/p&gt;
+&lt;p&gt;After completing this session, you will be able to:&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;1-1: Explain the overlap in goals and objectives between college and career readiness instruction and general workforce preparation and employability skills. &lt;/li&gt;
+&lt;li&gt;1-2: Define and demonstrate transferable skills. &lt;/li&gt;
+&lt;li&gt;1-3: Describe ways teachers can help students connect learning objectives to their goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While referring to the Workforce Preparation Activities &amp;amp; Employability Skills checklist:&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;1-4: Identify examples of contextualized instructional activities in existing lessons/units that teach employability skills.&lt;/li&gt;
+&lt;li&gt;1-5: Identify lessons and units you currently teach that would readily support the addition of workforce preparation and employability skills objectives.&lt;/li&gt;
+&lt;li&gt;1-6: Create a contextualized lesson or unit where workforce preparation activities and employability skills are fully integrated into the learning objectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+&lt;div id="_com_1" language="JavaScript"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span face="Verdana" size="2" color="#693300"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span face="Verdana" size="2" color="#693300"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1536343104</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

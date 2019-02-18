@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="286">
+    <name>Default for Quiz: Comprehension Check</name>
+    <contextid>29053</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>7383</contextinstanceid>
+    <info>The default category for questions shared in context 'Quiz: Comprehension Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+170912002117+U2RD7j</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="287">
+    <name>Default for Workforce Preparation Activities in the Classroom</name>
+    <contextid>29036</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>203</contextinstanceid>
+    <info>The default category for questions shared in context 'Workforce Preparation Activities in the Classroom'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+170912002117+zVuhBy</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1895">
+        <parent>0</parent>
+        <name>Question 1 of 4</name>
+        <questiontext>&lt;p&gt;CCR standards, the Employability Skills Framework, and the WIOA definition of workforce preparation activities all emphasize which of the following skills?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answers are &lt;strong&gt;A, B, D and F.&lt;/strong&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;Choices C and E describe occupational skills training. As discussed earlier, at their core, workforce preparation activities address general, transferable skills that cut across all industry sectors, technical occupations and career clusters (E is eliminated). While input from business and industry could be helpful to illustrate how workforce preparation skills are applied in the workplace, this sort of input is not required to teach general workforce preparation skills (C is eliminated).&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170912002645+50qF7P</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170927210907+8PZFdY</version>
+        <hidden>0</hidden>
+        <timecreated>1505176005</timecreated>
+        <timemodified>1506546547</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5876">
+              <answertext>&lt;p&gt;Critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5877">
+              <answertext>&lt;p&gt;Applied knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5878">
+              <answertext>&lt;p&gt;Architecture and construction&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5879">
+              <answertext>&lt;p&gt;Digital literacy&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5880">
+              <answertext>&lt;p&gt;Business management and administration&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5881">
+              <answertext>&lt;p&gt;Self-awareness and self-regulation&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1047">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1896">
+        <parent>0</parent>
+        <name>Question 2 of 4</name>
+        <questiontext>&lt;p&gt;Read the following unit description.  From the assignment description, identify the combination of workforce preparation skills that are already being taught and could be incorporated into non-academic objectives.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For a unit on nutrition, a teacher lectures and assigns readings about the essential nutrients and their functions, as well as various nutritional behaviors that promote optimal nutrition and disease prevention throughout the life cycle.  Energy balance, nutrition for fitness, and food safety are also included. At the end of the unit, students will track, analyze and evaluate their own diet based on a 5-day food recall and develop a plan for improvement.&lt;/em&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;C, utilizing resources and critical thinking&lt;/strong&gt;.&lt;/p&gt;
+&lt;p class="Feedback"&gt;In reality, one could develop lessons and learning activities that touch on a combination of all or most of the workforce preparation activities, but here we’re highlighting the core activities that are directly addressed. Students are demonstrating their use of resources and critical thinking skills by choosing and comparing their diet to one or more recommended set of guidelines in order to analyze and evaluate their current status.  These same skills are necessary for the subsequent half of the assignment – to develop a plan for improvement.  While students are using information throughout this activity, it’s not apparent from the description that they are working together in any capacity. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170912002954+81yD65</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170920124013+A3R83H</version>
+        <hidden>0</hidden>
+        <timecreated>1505176194</timecreated>
+        <timemodified>1505911213</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5882">
+              <answertext>&lt;p&gt;interpersonal skills and self-management&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5883">
+              <answertext>&lt;p&gt;working with others and understanding systems&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5884">
+              <answertext>&lt;p&gt;utilizing resources and critical thinking&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5885">
+              <answertext>&lt;p&gt;using technology and utilizing resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5886">
+              <answertext>&lt;p&gt;using information and working with others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1048">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1897">
+        <parent>0</parent>
+        <name>Question 3 of 4</name>
+        <questiontext>&lt;p&gt;A teacher is teaching a unit on persuasive writing.  She tells her students that they must choose a controversial current event, research each side of the argument and write an essay arguing for the side of their choosing.  They will be graded based on their ability to research the topic and write an essay that not only argues for their side, but also addresses and/or discredits the opposing arguments. &lt;/p&gt;
+&lt;p&gt;As she explains the assignment, which statements can she make to best help her students make a connection between their broader, longer-term goals, and the breath, depth, and transferability of the skills she’s teaching?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;The correct answers are &lt;strong&gt;A, C and E.&lt;/strong&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;Choices B and D describe basic information about the assignment, but do not address workforce skills development. To help students make a connection between their broader goals and the transferability of the skills they are learning in class, teachers should be transparent and explicit about all the skills being taught or practiced – not just the academic skills (Answers A and C). In addition, teachers should engage students in brainstorming what skills they are learning, how they can be applied in different contexts, and why they are important (Answers C and E). &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170912003241+yaAbVh</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170927211740+6N6iB9</version>
+        <hidden>0</hidden>
+        <timecreated>1505176361</timecreated>
+        <timemodified>1506547060</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5887">
+              <answertext>&lt;p&gt;“To do well on this assignment, you must use more than just your reading and writing skills. You must be able to identify and analyze more than one point of view. You must also have a well-organized essay that demonstrates critical and creative thinking.”&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5888">
+              <answertext>&lt;p&gt;“All essays must be 2-5 pages, formatted using 11-point Times New Roman font, with a one-inch margin, on standard 8.5 by 11 inch paper. Do not play with the margins and fonts to make your paper longer or shorter.”&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5889">
+              <answertext>&lt;p&gt;“Let’s suppose you choose to investigate the causes of childhood obesity. How will you start your research? What steps will you take to get your information? (Teacher writes down student answers.)  Good. Notice that this assignment relies heavily on your skills at finding, analyzing and communicating information. Why do you think these skills are important?”&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5890">
+              <answertext>&lt;p&gt;“I’ve created a list of acceptable topics from which you can choose your paper topic. “.”&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5891">
+              <answertext>&lt;p&gt;“We talk a lot about the careers goals that each of you is planning to pursue. Let’s brainstorm some ways that this assignment can help you develop skills that will be valuable in the workplace.”&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1049">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1898">
+        <parent>0</parent>
+        <name>Question 4 of 4</name>
+        <questiontext>&lt;p&gt;A teacher is teaching a unit on the basic concepts of American government, the American political process and the rights and responsibilities of citizenship. The primary learning objectives are that students will be able to analyze and evaluate current legislation, and present oral arguments for and against various bills and laws. &lt;/p&gt;
+&lt;p&gt;Which workforce preparation skills are emphasized in this unit as it is described?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;The correct answer is &lt;strong&gt;B, critical thinking and using information&lt;/strong&gt;. &lt;/p&gt;
+&lt;p class="Feedback"&gt;Students are demonstrating critical thinking and using information skills. First, they must locate and organize information about various current legislation. Then they must analyze the information they have, determine which argument it supports and become fluent enough in discussing it to use it in oral arguments. While students are thinking critically and using information throughout this activity, it’s not apparent from the description that they are being graded on any interpersonal or teamwork skills. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170912003434+RlMjJN</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170920124209+K5dgkP</version>
+        <hidden>0</hidden>
+        <timecreated>1505176474</timecreated>
+        <timemodified>1505911329</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5892">
+              <answertext>&lt;p&gt;teamwork and understanding systems&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5893">
+              <answertext>&lt;p&gt;critical thinking and using information&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5894">
+              <answertext>&lt;p&gt;self-management and digital literacy&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5895">
+              <answertext>&lt;p&gt;using information and transition skills&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5896">
+              <answertext>&lt;p&gt;digital literacy and teamwork&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1050">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1899">
+        <parent>0</parent>
+        <name>Question 1 of 4</name>
+        <questiontext>&lt;p&gt;Which statement best describes Key Practice 6: Use formative assessment?  &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;The correct answers are &lt;strong&gt;D and E.&lt;/strong&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;Formative assessment is assessment that occurs during the learning process and is used to inform the teacher of any adjustments that might be required for instruction to be more effective in meeting the students’ needs. Self-assessment is one effective type of formative assessment. Directing students to compare their work to the rubric is one type of self-assessment.  Giving students feedback that is both timely and constructive and has a specific focus is another type of formative assessment.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170913152953+HqlA2e</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170928150345+pjWOxC</version>
+        <hidden>0</hidden>
+        <timecreated>1505316593</timecreated>
+        <timemodified>1506611025</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5897">
+              <answertext>&lt;p&gt;When you read about Martin Luther King, Jr., make a list of his character traits. Character traits are typically physical (height, hair color) or describe a character’s personality (patient, forgiving, unreliable).  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5898">
+              <answertext>&lt;p&gt;When teaching about percentages, discuss examples like a shopping discount when items are on sale, an annual sales increase for a growing business, or calculating sales tax.  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5899">
+              <answertext>&lt;p&gt;Use the question jar to practice writing reflective, conceptual, and factual questions.  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5900">
+              <answertext>&lt;p&gt;As you complete your assignment, regularly check this rubric to ensure that you address the standards you must meet. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5901">
+              <answertext>&lt;p&gt;Kenneth, this was a great example of persuasive writing. You clearly researched all sides of the issue and eloquently addressed the dissenting arguments.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1051">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1900">
+        <parent>0</parent>
+        <name>Question 2 of 4</name>
+        <questiontext>&lt;p&gt;Which statement best describes Key Practice 2: Encourage elaboration, questioning and self-explanation?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answers are &lt;strong&gt;A and E.&lt;/strong&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;The idea is to get students to think and analyze, rather than memorize and drill concepts. Teachers can encourage this process by asking questions in multiple ways to help students come to their own conclusions.  One teacher describes resisting the impulse to answer a student’s questions right away. Instead, teachers might have students generate questions and answers with peers in small groups in order to gain practice sharing their thought processes.&lt;/p&gt;
+&lt;p class="Feedback"&gt; &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170913154245+nAvGP7</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170928151013+GA6EE5</version>
+        <hidden>0</hidden>
+        <timecreated>1505317365</timecreated>
+        <timemodified>1506611413</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5902">
+              <answertext>&lt;p&gt;Answer a student’s question with a question at least three times to assess understanding, elicit the critical thinking, problem solving, and effective feedback producing aspects of deeper learning.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5903">
+              <answertext>&lt;p&gt;To teach mathematical concepts most effectively, you devote the bulk of classtime to having students memorize and drill operations and procedures.  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5904">
+              <answertext>&lt;p&gt;Provide opportunities for students to gain mastery, confidence, and self-efficacy in undertaking increasingly complex tasks by presenting material in stages with practice at each stage.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5905">
+              <answertext>&lt;p&gt;Have students read passages independently and then write summaries of the content to be turned in for the teacher to check understanding.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5906">
+              <answertext>&lt;p&gt;Create an environment that builds what Lampert refers to as students’ “intellectual courage” – the courage to share their thought processes, ask their questions and justify their answers out loud to the entire class or in pairs and small groups.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1052">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1901">
+        <parent>0</parent>
+        <name>Question 3 of 4</name>
+        <questiontext>&lt;p&gt;Why is contextualized instruction a beneficial way to teach adult learners? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answers are &lt;strong&gt;A, B and E&lt;/strong&gt;.  &lt;/p&gt;
+&lt;p class="Feedback"&gt;Adults are motivated by relevance. For most adults to develop an interest in learning something new, they want to see a connection between the content or skills and their goals. Contextualized learning makes this connection for them when teachers demonstrate how the skills in the lesson can be applied directly to situations and problems they might encounter in their current workplaces or educational environment. Teachers can then capitalize on the interest created to promote deeper learning by building new concepts on top of familiar concepts and prior knowledge.  &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170913155627+Y8Hic6</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170929194101+SwoOyE</version>
+        <hidden>0</hidden>
+        <timecreated>1505318187</timecreated>
+        <timemodified>1506714061</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5907">
+              <answertext>&lt;p&gt;Skills and concepts are learned more effectively in a context which highlights relevance to real-world situations.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5908">
+              <answertext>&lt;p&gt;Deeper learning is promoted when the brain can attach new concepts and information to familiar concepts and prior knowledge.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5909">
+              <answertext>&lt;p&gt;Practicing academic skills acquisition helps promote deeper learning.  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5910">
+              <answertext>&lt;p&gt;When creating contextualized lessons, teachers must rely on ABE and GED textbooks and supplemental materials.  &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5911">
+              <answertext>&lt;p&gt;In a contextualized classroom, students discover meaningful relationships between abstract ideas and practical applications in the context of the real world.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1053">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1902">
+        <parent>0</parent>
+        <name>Question 2.2 of 4</name>
+        <questiontext>&lt;p&gt;Which statement best describes Key Practice 2: Encourage elaboration, questioning and self-explanation?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The idea is to get students to think and analyze, rather than memorize and drill concepts. Teachers can encourage this process by asking questions in multiple ways to help students come to their own conclusions.  One teacher describes resisting the impulse to answer a student’s questions right away. Instead, teachers might have students generate questions and answers with peers in small groups in order to gain practice sharing their thought processes.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170913191027+Fdlped</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170913215343+zB3u8w</version>
+        <hidden>0</hidden>
+        <timecreated>1505329827</timecreated>
+        <timemodified>1505339623</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5912">
+              <answertext>&lt;p&gt;Answer a student’s question with a question at least three times to assess understanding, elicit the critical thinking, problem solving, and effective feedback producing aspects of deeper learning.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5913">
+              <answertext>&lt;p&gt;To teach mathematical concepts most effectively, you devote the bulk of classtime to having students memorize and drill operations and procedures.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5914">
+              <answertext>&lt;p&gt;Provide opportunities for students to gain mastery, confidence, and self-efficacy in undertaking increasingly complex tasks with guidance and support along the way.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5915">
+              <answertext>&lt;p&gt;Have students read passages independently and then write summaries of the content to be turned in for the teacher to check understanding. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5916">
+              <answertext>&lt;p&gt;Create an environment that builds what Lampert refers to as students’ “intellectual courage” – the courage to share their thought processes, ask their questions and justify their answers out loud to the entire class or in pairs and small groups.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1054">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1903">
+        <parent>0</parent>
+        <name>Question 4 of 4</name>
+        <questiontext>&lt;p&gt;What strategies can be used to design contextualized lessons?  &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p class="Feedback"&gt;The correct answers are&lt;strong&gt; B, C, and D.&lt;/strong&gt; &lt;/p&gt;
+&lt;p class="Feedback"&gt;Contextualized lessons rely on authentic materials and information, and a variety of learning objectives.  Authentic materials provide a direct link showing how the information learned can be applied to other situations, because the learning materials were not designed for learning. Their main purpose is use in a workplace or daily life. By talking to people who use those materials for their intended purpose, the teacher can learn how to plan a lesson that mimics the intended use. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+170914031059+lZ4QFE</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+170928151316+CYEPpG</version>
+        <hidden>0</hidden>
+        <timecreated>1505358659</timecreated>
+        <timemodified>1506611596</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5917">
+              <answertext>&lt;p&gt;Reviewing old textbooks to gain insight into a variety of ways to design the lesson.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5918">
+              <answertext>&lt;p&gt;Integrating a variety of learning objectives into a single lesson.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5919">
+              <answertext>&lt;p&gt;Building lessons around authentic materials that you gather to illustrate how skills are applied to different settings and workplaces.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5920">
+              <answertext>&lt;p&gt;Interviewing or observing community members at work or engaged in an activity or hobby where they use the skills in context.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.3333333</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5921">
+              <answertext>&lt;p&gt;Using resources that demonstrate how to isolate academic skill building and write targeted objectives.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>-0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1055">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="288">
+    <name>Default for Session 2 Comprehension Check</name>
+    <contextid>29064</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>7394</contextinstanceid>
+    <info>The default category for questions shared in context 'Session 2 Comprehension Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+170913031114+y2HBRn</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="289">
+    <name>Integrated Learning Objectives</name>
+    <contextid>29036</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>203</contextinstanceid>
+    <info></info>
+    <infoformat>1</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+180529042720+Y6CqWY</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="1904">
+        <parent>0</parent>
+        <name>A</name>
+        <questiontext>&lt;p&gt;Students will write for a specific purpose, using technical, clear, and persuasive language to advertise a free fitness program by creating a sample brochure for the program.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+180529043400+c1KV4x</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180529043401+gnAt4h</version>
+        <hidden>0</hidden>
+        <timecreated>1527568440</timecreated>
+        <timemodified>1527568440</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5922">
+              <answertext>&lt;p&gt;English Language Arts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's right!  You selected the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5923">
+              <answertext>&lt;p&gt;Subject Learning/Knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5924">
+              <answertext>&lt;p&gt;Workforce Prep/Employability Skills&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1056">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1905">
+        <parent>0</parent>
+        <name>B</name>
+        <questiontext>&lt;p&gt;Students will demonstrate their content learning in health and physical education.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+180529043439+kUJSz5</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180529043527+QXJQOs</version>
+        <hidden>0</hidden>
+        <timecreated>1527568479</timecreated>
+        <timemodified>1527568527</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5925">
+              <answertext>&lt;p&gt;Subject Learning/Knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's right!  You selected the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5926">
+              <answertext>&lt;p&gt;English Language Arts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5927">
+              <answertext>&lt;p&gt;Workforce Prep/Employability Skills&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1057">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1906">
+        <parent>0</parent>
+        <name>C</name>
+        <questiontext>&lt;p&gt;Students will demonstrate ability to work collaboratively to create a product; specifically, students will demonstrate applied academic skills, interpersonal skills, and information use skills. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+180529043542+9FY5QN</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180529043637+gYE1L4</version>
+        <hidden>0</hidden>
+        <timecreated>1527568542</timecreated>
+        <timemodified>1527568597</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5928">
+              <answertext>&lt;p&gt;Workforce Prep/Employability Skills&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's right!  You selected the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5929">
+              <answertext>&lt;p&gt;English Language Arts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5930">
+              <answertext>&lt;p&gt;Subject Learning/Knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1058">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1907">
+        <parent>0</parent>
+        <name>D</name>
+        <questiontext>&lt;p&gt;Students will demonstrate ability to work collaboratively to create a product; specifically, students will demonstrate applied academic skills, interpersonal skills, and information use skills. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+180529071003+kqdRT5</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180529071003+MxvbIj</version>
+        <hidden>0</hidden>
+        <timecreated>1527577803</timecreated>
+        <timemodified>1527577803</timemodified>
+        <createdby>11643</createdby>
+        <modifiedby>11643</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="5931">
+              <answertext>&lt;p&gt;English Language Arts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5932">
+              <answertext>&lt;p&gt;Subject Learning/Knowledge&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;You did not select the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="5933">
+              <answertext>&lt;p&gt;Workforce Prep/Employability Skills&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's right!  You selected the correct response.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1059">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="290">
+    <name>Default for Can you guess what objective this is?(2)</name>
+    <contextid>29061</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>7391</contextinstanceid>
+    <info>The default category for questions shared in context 'Can you guess what objective this is?(2)'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+180529071621+shL28y</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

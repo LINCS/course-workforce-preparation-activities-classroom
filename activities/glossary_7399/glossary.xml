@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="7399" modulename="glossary" contextid="29069">
+  <glossary id="11">
+    <name>Workforce Preparation Activities in the Classroom Glossary</name>
+    <intro>&lt;p&gt;Workforce Preparation Activities in the Classroom Glossary&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <allowduplicatedentries>0</allowduplicatedentries>
+    <displayformat>dictionary</displayformat>
+    <mainglossary>1</mainglossary>
+    <showspecial>1</showspecial>
+    <showalphabet>1</showalphabet>
+    <showall>1</showall>
+    <allowcomments>0</allowcomments>
+    <allowprintview>1</allowprintview>
+    <usedynalink>1</usedynalink>
+    <defaultapproval>1</defaultapproval>
+    <globalglossary>0</globalglossary>
+    <entbypage>10</entbypage>
+    <editalways>0</editalways>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <timecreated>1505177306</timecreated>
+    <timemodified>1536342953</timemodified>
+    <completionentries>0</completionentries>
+    <entries>
+    </entries>
+    <categories>
+    </categories>
+  </glossary>
+</activity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="190" moduleid="7397" modulename="book" contextid="29067">
+  <book id="190">
+    <name>Course Conclusion and Evaluation</name>
+    <intro>&lt;p&gt;&lt;a name="_Toc492977195"&gt;&lt;/a&gt;Course Conclusion&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505319641</timecreated>
+    <timemodified>1505320076</timemodified>
+    <chapters>
+      <chapter id="1290">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Thank you!</title>
+        <content>&lt;h3&gt;Participate in the forum discussions!&lt;/h3&gt;
+&lt;p&gt;Congratulations on completing &lt;i&gt;Workforce Preparation Activities in the Classroom&lt;/i&gt;&lt;em&gt;!&lt;/em&gt; We encourage you to stay involved in the LINCS Community and the &lt;a href="https://community.lincs.ed.gov/group/career-pathways%20"&gt;LINCS Career Pathways Group&lt;/a&gt; as you work to incorporate the workforce preparation activities into your instruction for adult learners. Take a few minutes to discuss and apply your newly acquired knowledge and learn about others' experiences in helping adult learners prepare for the workforce.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Click the &lt;b&gt;arrow to continue to the &lt;a href="$@BOOKVIEWBYIDCH*7397*1291@$"&gt;Course Evaluation&lt;/a&gt;.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506482582</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1291">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Complete evaluation and print certificate</title>
+        <content>&lt;p&gt;This concludes the &lt;i&gt;Workforce Preparation Activities in the Classroom&lt;/i&gt; course. Many thanks to the individuals and organizations who generously contributed to the design and development of this course:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sandy Goodman, Director of Career Pathways, National College Transition Network at World Education, Inc., Course Author&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To maintain the quality of our courses, please take a moment to complete the &lt;a href="http://www.surveygizmo.com/s3/3739207/Workforce-Preparation-Activities-in-the-Classroom" target="_blank"&gt;course evaluation&lt;/a&gt;. Your feedback will ensure our courses meet your needs for professional development. Thank you.&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;To access resources from this online course, please click here: Research Base&lt;/span&gt;.&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Access and Print Your Certificate &lt;b&gt;Any Time:&lt;/b&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations on completing this LINCS online course! To obtain your completion certificate, simply close this window and &lt;span style="font-size: small;"&gt;return&lt;/span&gt; to the course homepage. You will find a link for the completion certificate under the Certificate of Completion section header.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;The Literacy Information and Communication&lt;/i&gt; System&lt;i&gt; (LINCS) online course was developed by Manhattan Strategy Group under contract to Kratos for the U.S. Department of Education, Office of Career, Technical, and Adult Education under Contract No. ED-VAE-14-C-0123. The opinions expressed herein do not necessarily represent the positions or policies of the U.S. Department of Education, and no official endorsement by the U.S. Department of Education should be inferred. This course is in the public domain and may be used without permission.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506714339</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

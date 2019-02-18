@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="114" moduleid="7383" modulename="quiz" contextid="29053">
+  <quiz id="114">
+    <name>Session 1 Comprehension Check</name>
+    <intro>&lt;p id="yui_3_13_0_2_1505236374063_354"&gt;This comprehension check will test your understanding of the concepts covered in Session 1: Best Practices for Teaching Employability Skills. You may take this quiz multiple times.&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Once you're finished, continue to Session 1 Reflection questions.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>4368</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>4368</reviewspecificfeedback>
+    <reviewgeneralfeedback>4368</reviewgeneralfeedback>
+    <reviewrightanswer>4368</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>0</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>1895,1896,1897,1898,0</questions>
+    <sumgrades>4.00000</sumgrades>
+    <grade>100.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1506546309</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="792">
+        <question>1895</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="793">
+        <question>1896</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="794">
+        <question>1897</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="795">
+        <question>1898</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="157">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>101.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="188" moduleid="7395" modulename="book" contextid="29065">
+  <book id="188">
+    <name>Session 2 Reflection Questions</name>
+    <intro>&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Session 2 Reflection Questions&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505319014</timecreated>
+    <timemodified>1511985522</timemodified>
+    <chapters>
+      <chapter id="1288">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Reflection questions</title>
+        <content>&lt;p&gt;Now that you have reviewed workforce preparation activities, before moving on please share your thoughts and read other teachers’ responses in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-workforce-preparation-activities-classroom"&gt;LINCS Career Pathways Group&lt;/a&gt; discussion thread.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What overlap do you see in lessons you currently teach?&lt;/li&gt;
+&lt;li&gt;Which skills were not explicitly included in the workplace preparation activities discussed so far?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that there is no “right” answer here. Be thoughtful about the alignments and intersections between the different skill sets.&lt;/p&gt;
+&lt;p&gt;&lt;img width="500" height="334" alt="Image with the words: Thoughts? Share." src="@@PLUGINFILE@@/56085687_m.jpg" /&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;After you have shared your thoughts, continue to Session 2 Conclusion.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1508951698</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

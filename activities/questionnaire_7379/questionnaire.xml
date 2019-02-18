@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="102" moduleid="7379" modulename="questionnaire" contextid="29049">
+  <questionnaire id="102">
+    <course>203</course>
+    <name>Step 4: Draft an objective for Employability Skills</name>
+    <intro>&lt;p&gt;For this step, you will draft a new objective for this lesson.  Click the link to type your answer to the question.  Once you submit your answer, you will be able to compare your response to suggestions from teaching experts.  &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" color="#693300" size="2" face="Verdana"&gt;Once you have reviewed possible responses, continue to Activity 2: Find Employability Skills in Your Own Lessons.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <qtype>0</qtype>
+    <respondenttype>anonymous</respondenttype>
+    <resp_eligible>all</resp_eligible>
+    <resp_view>1</resp_view>
+    <opendate>0</opendate>
+    <closedate>0</closedate>
+    <resume>0</resume>
+    <navigate>0</navigate>
+    <grade>0</grade>
+    <sid>102</sid>
+    <timemodified>1506696974</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <autonum>3</autonum>
+    <surveys>
+      <survey id="102">
+        <name>Step 4: Draft an objective for Employability Skills</name>
+        <owner>203</owner>
+        <realm>private</realm>
+        <status>0</status>
+        <title>Step 4: Draft an objective for Employability Skills</title>
+        <email></email>
+        <subtitle></subtitle>
+        <info>&lt;p&gt;When you have answered the question in the questionnaire, click submit &amp;gt; continue, so you may view your responses and print them. &lt;/p&gt;
+&lt;p&gt;Once you have reviewed possible responses, continue on to Activity 2: Find Employability Skills in Your Own Lessons or click the link on the left side navigation.&lt;/p&gt;</info>
+        <theme></theme>
+        <thanks_page></thanks_page>
+        <thank_head>Does your version look similar to any of these?</thank_head>
+        <thank_body>&lt;ul&gt;
+&lt;li&gt;Students will demonstrate communication and interpersonal skills by working in a group to collaboratively create a fitness brochure.&lt;/li&gt;
+&lt;li&gt;Students will demonstrate applied academic, critical thinking and information use skills by researching a fitness topic and creating a customer brochure for an imaginary fitness program.&lt;/li&gt;
+&lt;li&gt;Students will demonstrate technology use by creating a brochure for a fitness program.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Once you have reviewed the answers above, continue on to Activity 2: Find Employability Skills in Your Own Lessons or click the link on the left side navigation.&lt;/p&gt;</thank_body>
+        <feedbacksections>0</feedbacksections>
+        <feedbacknotes></feedbacknotes>
+        <feedbackscores>0</feedbackscores>
+        <chart_type></chart_type>
+        <questions>
+          <question id="1396">
+            <survey_id>102</survey_id>
+            <name>$@NULL@$</name>
+            <type_id>99</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>0</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>break</content>
+            <required>n</required>
+            <deleted>y</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+          <question id="1397">
+            <survey_id>102</survey_id>
+            <name>Drafting an Objective</name>
+            <type_id>3</type_id>
+            <result_id>$@NULL@$</result_id>
+            <length>25</length>
+            <precise>0</precise>
+            <position>1</position>
+            <content>&lt;p&gt;Draft an objective for this lesson that is specific to Employability Skills.&lt;/p&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div id="_com_1"&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+            <required>y</required>
+            <deleted>n</deleted>
+            <dependquestion>0</dependquestion>
+            <dependchoice>0</dependchoice>
+            <quest_choices>
+            </quest_choices>
+          </question>
+        </questions>
+        <fb_sections>
+        </fb_sections>
+      </survey>
+    </surveys>
+    <attempts>
+    </attempts>
+  </questionnaire>
+</activity>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="203" contextid="29036">
+  <shortname>Workforce Preparation Activities in the Classroom</shortname>
+  <fullname>Workforce Preparation Activities in the Classroom</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;This course is designed for adult educators, administrators, teachers, and advisors who would like more familiarity with how workforce preparation and employability skills can be incorporated into instructional activities. It is recommended that users also complete the &lt;em&gt;Introduction to Workforce Preparation and Employability Skills&lt;/em&gt; course, which covers workforce preparation and the specific skills outlined in the U.S. Department of Education's Employability Skills Framework. After completing this course, participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;describe the rationale behind contextualized instruction that simultaneously addresses college and career readiness instruction and general workforce preparation and employability skills, and demonstrate how this rationale is already incorporated into an existing curriculum;&lt;/li&gt;
+&lt;li&gt;explain best practices concerning workforce preparation activities as referenced in WIOA and illustrate how these practices are currently being used to teach employability skills to adult learners; and&lt;/li&gt;
+&lt;li&gt;locate resources to develop incorporate workforce preparation activities into curriculum and instruction. &lt;/li&gt;
+&lt;/ul&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1534392000</startdate>
+  <marker>0</marker>
+  <maxbytes>52428800</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en_us</lang>
+  <theme></theme>
+  <timecreated>1505159318</timecreated>
+  <timemodified>1539801239</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>4</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <category id="3">
+    <name>Career Pathways</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

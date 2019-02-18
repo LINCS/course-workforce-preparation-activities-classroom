@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="176" moduleid="7376" modulename="book" contextid="29046">
+  <book id="176">
+    <name>Workforce Preparation Activities &amp; Academic Alignment</name>
+    <intro>&lt;p&gt;Workforce Preparation Activities &amp;amp; Academic Alignment&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505163201</timecreated>
+    <timemodified>1505355910</timemodified>
+    <chapters>
+      <chapter id="1244">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Academic skill-building vs. Workforce Preparation Activities</title>
+        <content>&lt;p&gt;Adult educators may perceive a conflict between focusing their instruction on&lt;span style="background-color: #ffffff;"&gt; academic skill-building versus &lt;span style="color: #000000;"&gt;&lt;span style="color: #000000; background-color: #ffffff;"&gt;&lt;a href="$@GLOSSARYVIEWBYID*7399@$&amp;amp;mode=entry&amp;amp;hook=104" target="_blank"&gt;workforce preparation activities&lt;/a&gt;&lt;/span&gt;. &lt;/span&gt;They may express concern that the emphasis on workforce preparation will distract from teaching rigorous academic content standards. This concern may be based in a misunderstanding of and overly&lt;/span&gt;-narrow interpretation of workforce preparation activities (for example, that workforce preparation activities are simply designed to help an individual acquire a set of job-readiness skills such as preparing a resume or searching for a job).&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1536341324</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1245">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Alignment with college and career readiness standards</title>
+        <content>&lt;p&gt;An examination of workforce preparation and employability skills as defined in course #1, reveal alignment with the academic content standards. For example, they all address: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span ffffff=""&gt;&lt;span style="background-color: #ffffff;"&gt;critical thinking skills;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span ffffff=""&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;a href="$@GLOSSARYVIEWBYID*7399@$&amp;amp;mode=letter&amp;amp;hook=A&amp;amp;sortkey=&amp;amp;sortorder=asc" target="_blank"&gt;applied knowledge&lt;/a&gt;; and &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;a href="$@GLOSSARYVIEWBYID*7399@$&amp;amp;mode=entry&amp;amp;hook=345" target="_blank"&gt;digital literacy&lt;span style="color: #000000;"&gt;.&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1527782487</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1246">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Integrating Workforce Preparation Activities &amp; Employability Skills</title>
+        <content>&lt;p&gt;Further, when academic instruction is contextualized so that workforce preparation activities and employability skills are fully integrated into the learning objectives, instructors don’t have to choose whether to devote precious instructional time to one over the other. Instead, the instruction is mutually reinforcing. Academic instruction that embeds employability skills and workforce preparation activities has the potential to foster deeper learning. This is especially true when students gain the awareness and ability to apply their knowledge and skills to multiple contexts, such as transition to postsecondary education, training, and work. &lt;/p&gt;
+&lt;div class="graybox"&gt;
+&lt;h4&gt;Example&lt;br /&gt;&lt;br /&gt;&lt;/h4&gt;
+As part of a unit on science, a teacher may have students prepare for and hold a debate to discuss a pressing local issue: whether the city should build a new higher or expand the public transportation system. Students would be responsible for working in teams, either supporting or opposing the issue, and conducting research to support their argument. Then, in class with a designated moderator, each team would present their argument and answer questions. The teacher can help all students to identify skills they will be practicing (critical thinking skills, interpersonal skills like working with others and respecting differences, and information use) that could be applied to other school- or work-related tasks in order to engage them in the relevance of the lesson.&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to Workforce Preparation Activities &amp;amp; Diverse Student Goals.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506456253</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

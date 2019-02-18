@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="186" moduleid="7392" modulename="book" contextid="29062">
+  <book id="186">
+    <name>Integrating Learning Objectives</name>
+    <intro>&lt;p&gt;&lt;a name="_Toc492977179"&gt;&lt;/a&gt;Integrating Learning Objectives&lt;o:p&gt;&lt;/o:p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505270979</timecreated>
+    <timemodified>1511985452</timemodified>
+    <chapters>
+      <chapter id="1282">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Lesson Plan Example</title>
+        <content>&lt;p&gt;Explore a &lt;a href="http://www.laguardia.edu/ACE/Programs/CCPI/Transitions1/"&gt;lesson plan&lt;/a&gt; from the &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-577"&gt;Bridge to College and Careers&lt;/a&gt; Program at La Guardia Community College's College and Careers Pathways Institute. Notice that the template used for this lesson on Transitions prompts the instructor to identify, and thus integrate a variety of learning objectives into a single lesson, using an integrated and contextualized approach to teaching. The learning objectives are sorted into these categories, based on the types of skills addressed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;College and Career Readiness Standards&lt;/li&gt;
+&lt;li&gt;Common Career Technical Core Standards&lt;/li&gt;
+&lt;li&gt;Academic Skills – a more detailed account than what’s provided in the standards of the subskills practiced&lt;/li&gt;
+&lt;li&gt;Sector-focused Content – we might consider this the answer to the question what is this lesson about? In this case, the lesson is about college and career exploration and making career decisions.&lt;/li&gt;
+&lt;li&gt;Professional/Affective Skills – the term used for skills we’ve been discussing as workforce preparation/employability skills. Using workforce preparation terminology, this lesson addresses working with others, critical thinking, and using information, among others. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/MakingCareerChoicesLesson%20%28002%29_Screenshot.png" width="500" height="647" alt="Screen shot of the Making Career Choices Lesson Plan" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1505350055</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1283">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Integrating Learning Objectives </title>
+        <content>&lt;p&gt;In each of the previous lesson examples, workforce preparation and employability skills are explicitly identified in the lesson plan; that is, they are intended outcomes of the lesson, rather than an indirect byproduct of the lesson activities. At the same time, each lesson remains an academic skill-building lesson, evidenced by the fact that at the core of the lessons are academic learning objectives that are tied to academic standards (such as the College and Career Readiness Standards for Adult Education, but depending on the frameworks used in these states and programs). In some cases, depending on whether the lesson has an occupational or industry sector focus (or context, that is, depending on what the lesson is about) learning objectives are also tied to the &lt;a href="https://www.careertech.org/cctc"&gt;Common Career Technical Core&lt;/a&gt; or other occupational or technical standards (as in the lesson on food preservation). &lt;/p&gt;
+&lt;p&gt;&lt;img width="500" height="515" alt="Photo of a teacher and three students in a biology lab" src="@@PLUGINFILE@@/20933119_m.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to Developing Contextualized Lessons.&lt;/span&gt;&lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506481615</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

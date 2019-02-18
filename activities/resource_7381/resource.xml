@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="184" moduleid="7381" modulename="resource" contextid="29051">
+  <resource id="184">
+    <name>General Education Lesson: Create a Brochure for a Fitness Program </name>
+    <intro>&lt;p&gt;You will need this lesson to continue with the activity.  Print the lesson or keep it open on your screen.  Then return to &lt;a href="$@BOOKVIEWBYIDCH*7378*1255@$"&gt;Step 2: Compare lesson with Employability Skills Lesson Planning Checklist&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Book" href="$@BOOKVIEWBYID*7378@$"&gt; &lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>6</display>
+    <displayoptions>a:2:{s:10:"popupwidth";i:620;s:11:"popupheight";i:450;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>10</revision>
+    <timemodified>1512396007</timemodified>
+  </resource>
+</activity>

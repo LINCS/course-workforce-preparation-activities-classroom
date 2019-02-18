@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="189" moduleid="7396" modulename="book" contextid="29066">
+  <book id="189">
+    <name>Session 2 Conclusion</name>
+    <intro>&lt;p&gt;Session 2 Conclusion&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505319355</timecreated>
+    <timemodified>1511985539</timemodified>
+    <chapters>
+      <chapter id="1289">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 2: Summary</title>
+        <content>&lt;p&gt;Session 2 covered the following points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The six key practices of deeper learning are:
+&lt;ul&gt;
+&lt;li&gt;Key Practice 1: Use multiple and varied representations of concepts and tasks&lt;/li&gt;
+&lt;li&gt;Key Practice 2: Encourage elaboration, questioning, and self-explanation&lt;/li&gt;
+&lt;li&gt;Key Practice 3: Engage learners in challenging tasks, with supportive guidance and feedback&lt;/li&gt;
+&lt;li&gt;Key Practice 4: Teach with examples and cases&lt;/li&gt;
+&lt;li&gt;Key Practice 5: Prime student motivation&lt;/li&gt;
+&lt;li&gt;Key Practice 6: Use formative assessment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;The ability to apply academic knowledge and problem-solving skills to a variety of contexts and situations is at the core of deeper learning and knowledge transfer.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Intentional implementation of instructional methods and approaches that promote deeper learning can foster workforce preparation and employability skills.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Adult learners master lesson objectives best when workforce preparation and employability skills are explicitly contextualized in the lesson using authentic materials, real-life case studies and other contexts related to career exploration, careers in specific industry or occupational sectors, and daily life.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Contextualized lessons help students see how the skills they are learning can apply directly to situations and problems they might encounter in their current workplaces or educational pursuits.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;There are many resources available to help you create contextualized lessons taught explicitly in the context of exploring various careers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to Course Conclusion and Evaluation.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506714239</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

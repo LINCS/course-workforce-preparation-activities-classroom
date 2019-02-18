@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="178" moduleid="7378" modulename="book" contextid="29048">
+  <book id="178">
+    <name>Activity 1: Finding Employability Skills in a Lesson</name>
+    <intro>&lt;p&gt;Activity 1: Finding Employability Skills in a Lesson&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505175383</timecreated>
+    <timemodified>1511985192</timemodified>
+    <chapters>
+      <chapter id="1253">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Utilizing Workforce Preparation Activities &amp; Employability Skills checklist</title>
+        <content>&lt;p&gt;To illustrate how workforce preparation activities and employability skills can be embedded in lessons whose content is not explicitly related to employment, workplace context, etc., we’ll review selected resources for identifying Employability Skills, available on OCTAE’s &lt;a href="http://cte.ed.gov/employabilityskills/" target="_blank"&gt;Employability Skills Framework Website&lt;/a&gt; and &lt;a href="http://www.ccrscenter.org/implementation-tools/integrating-employability-skills" target="_blank"&gt;The College and Career Readiness Success Center&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One resource you will practice using is a Lesson Planning Checklist that lists employability skills that are often incorporated in routine classroom activities.  Note that the checklist includes sample classroom activities for learning and practicing each skill and sub-skill. For additional examples, refer to course #1 for descriptions and information about the &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-763" target="_blank"&gt;&lt;i&gt;Transitions Integration Framework &lt;/i&gt;&lt;/a&gt;and &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-864" target="_blank"&gt;&lt;i&gt;Guide to ELA Classroom Activities that Promote Life Skills, College, and Career Readiness.&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="550" height="477" style="float: left;" alt="Screen shot of the Employability Skills Framework Website " src="@@PLUGINFILE@@/Employability%20Skills%20Framework%20Screenshot_9-12.JPG" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506710683</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1254">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Step 1: Review the lesson</title>
+        <content>&lt;p&gt;Open and review the General Education Lesson: Create a Brochure for a Fitness Program developed by the College and Career Readiness Success Center at the Center for Great Teachers and Leaders. The lesson is for secondary education students, but is applicable for our purposes. Notice that the lesson does not explicitly address a specific occupation or workplace scenario.&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/General%20Education%20Lesson_Fitness%20%28003%29_screenshot.png" width="500" height="647" alt="Screen shot of the General Education Lesson:  Create a Brochure for a Fitness Program" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1505345887</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1255">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Step 2: Compare lesson with Employability Skills Lesson Planning Checklist</title>
+        <content>&lt;ul&gt;
+&lt;li&gt;Open the &lt;a href="http://cte.ed.gov/employabilityskills/index.php/developingskills/create_checklist" target="_blank"&gt;Employability Skills Framework: Lesson Planning Checklist&lt;/a&gt; online. If you would like to print the checklist instead of using it online, click “Printer-Friendly” in the upper, right side corner and print from your computer. &lt;/li&gt;
+&lt;li&gt;Read over the checklist, noting the components of a lesson that provide instruction and practice for each skill. To view the descriptions online, hover your mouse over each skill and the descriptions will pop up. &lt;/li&gt;
+&lt;li&gt;Now compare the Create a Brochure for a Fitness Program lesson with the Skills Checklist. Note instances where students are learning and practicing specific employability skills. Mark the skills on your checklist.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="550" height="488" alt="Screen shot of the Employability Skills Framework – Lesson Planning Checklist" src="@@PLUGINFILE@@/Lesson%20Planning%20Checklist%20Screenshot_9-12.JPG" /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1512395914</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1256">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Step 3: Check your answers</title>
+        <content>&lt;p&gt;Compare the skills that you identified against the list of skills taught through the lesson:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;Applied Academic Skills
+&lt;ul&gt;
+&lt;li&gt;Uses reading skills&lt;/li&gt;
+&lt;li&gt;Uses writing skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Critical Thinking
+&lt;ul&gt;
+&lt;li&gt;Thinks creatively&lt;/li&gt;
+&lt;li&gt;Makes sound decisions&lt;/li&gt;
+&lt;li&gt;Solves problems&lt;/li&gt;
+&lt;li&gt;Reasons&lt;/li&gt;
+&lt;li&gt;Plans and organizes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Interpersonal Skills
+&lt;ul&gt;
+&lt;li&gt;Understands teamwork and works with others&lt;/li&gt;
+&lt;li&gt;Responds to customer needs&lt;/li&gt;
+&lt;li&gt;Exercises leadership&lt;/li&gt;
+&lt;li&gt;Negotiates to resolve conflict&lt;/li&gt;
+&lt;li&gt;Respects individual differences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Personal Qualities
+&lt;ul&gt;
+&lt;li&gt;Demonstrates responsibility and self-discipline&lt;/li&gt;
+&lt;li&gt;Works independently&lt;/li&gt;
+&lt;li&gt;Takes initiative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Resource Management
+&lt;ul&gt;
+&lt;li&gt;Manages time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Information Use
+&lt;ul&gt;
+&lt;li&gt;Locates&lt;/li&gt;
+&lt;li&gt;Organizes&lt;/li&gt;
+&lt;li&gt;Uses&lt;/li&gt;
+&lt;li&gt;Analyzes&lt;/li&gt;
+&lt;li&gt;Communicates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Systems Thinking
+&lt;ul&gt;
+&lt;li&gt;Understands and uses systems&lt;/li&gt;
+&lt;li&gt;Monitors systems&lt;/li&gt;
+&lt;li&gt;Improves systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Communication Skills
+&lt;ul&gt;
+&lt;li&gt;Conveys information in writing&lt;/li&gt;
+&lt;li&gt;Observes carefully&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li style="list-style-type: none;"&gt;Technology Use
+&lt;ul&gt;
+&lt;li&gt;Uses and understands technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Now that you have completed the first three steps, continue to Step 4: Draft an objective for Employability Skills.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1527782794</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="185" moduleid="7390" modulename="book" contextid="29060">
+  <book id="185">
+    <name>Integrating Learning Objectives Lesson</name>
+    <intro>&lt;p&gt;&lt;span class="nolink"&gt;Integrating Learning Objectives &lt;/span&gt;Lesson - eLearning Module:&lt;/p&gt;
+&lt;p&gt;Once you are ready to begin the eLearning module, press the Enter button below to launch the course.&lt;/p&gt;
+&lt;p&gt;This eLearning module should be completed after Contextualized Learning and Integrated Learning Objectives.&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span color="#693300" size="2" face="Verdana"&gt;After viewing this course, please continue to&lt;a href="$@BOOKVIEWBYIDCH*7392*1282@$"&gt; &lt;span class="nolink"&gt;Integrating Learning Objec&lt;/span&gt;tives&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1527565582</timecreated>
+    <timemodified>1527565582</timemodified>
+    <chapters>
+      <chapter id="1275">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Creating a Brochure for a Fitness Program</title>
+        <content>&lt;p&gt;In practical application, contextualization requires teachers to articulate the learning objectives in a variety of skill and content domains for curriculum and instruction. For example, let’s revisit the lesson that we looked at earlier, Create a Brochure for a Fitness Program.&lt;/p&gt;
+&lt;p&gt;The lesson plan includes three learning objectives (modified slightly from the original), each drawing from different skill and content domains, that we might consider to be: English Language Arts, content/subject learning, and employability skills. Let’s identify them now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Select the next (arrow) button to continue.&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1536351939</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1276">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Lesson: Creating a Brochure for a Fitness Program</title>
+        <content>&lt;h4&gt;Which Objective is it?&lt;/h4&gt;
+&lt;p&gt;In this lesson, you will identify which written objective aligns with which objective topic.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Select the next button to learn more about the Knowledge check.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For each objective, select the corresponding topic, in order to check your knowledge.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/Picture2_resized.png" width="550" height="339" alt="Two female students review their work while working outside. Other students are seated at the same table and carrying on conversations. " /&gt;&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1527566912</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1277">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Knowledge Check</title>
+        <content>&lt;p&gt;On the next screen, you will have the opportunity to match detailed objectives, with their corresponding type.&lt;/p&gt;
+&lt;p&gt;Please select the button below to proceed.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="$@QUIZVIEWBYID*7391@$" title="Click Here to Check Your Knowledge" style="float: none; vertical-align: top; background-color: #58b; border: 1px #215e8a; color: white; padding: 10px 10px; text-align: center; font-size: 16px; font-weight: bold; cursor: pointer; text-decoration: none; margin-top: 20px margin-bottom:20px;"&gt;Click Here to Check Your Knowledge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you are ready, select the next button or the menu to learn more about each &lt;/strong&gt;objective&lt;strong&gt; and to continue the lesson. &lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1530814018</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1278">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Objective 1: English Language Arts</title>
+        <content>&lt;p&gt;Review the objectives from the knowledge check in the right-hand column against the correct objective topic in the left-hand column. &lt;/p&gt;
+&lt;table border="0" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%; vertical-align: top; background-color: #245577;"&gt;
+&lt;h4&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff; text-decoration: underline;"&gt;Objective&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Students will write for a specific purpose, using technical, clear, and persuasive language to advertise a free fitness program by creating a sample brochure for the program&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 50%; vertical-align: top; background-color: #5b9fce;"&gt;
+&lt;h4&gt;&lt;span style="color: #000000; text-decoration: underline;"&gt;Correct Objective Topic&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;English Language Arts&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Press next to review another objective&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1530814173</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1279">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Objective 2: Subject Learning</title>
+        <content>&lt;table border="0" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%; vertical-align: top; background-color: #245577;"&gt;
+&lt;h4&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff; text-decoration: underline;"&gt;Objective&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Students will demonstrate their content learning in health and physical education. &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 50%; vertical-align: top; background-color: #5b9fce;"&gt;
+&lt;h4&gt;&lt;span style="color: #000000; text-decoration: underline;"&gt;Correct Objective Topic&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;Subject Learning&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Press next to review another objective&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1530814252</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1280">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Objective 3: Workforce Preparation/Employability Skills</title>
+        <content>&lt;table border="0" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%; vertical-align: top; background-color: #245577;"&gt;
+&lt;h4&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff; text-decoration: underline;"&gt;Objective&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;Students will demonstrate ability to work collaboratively to create a product; specifically, students will demonstrate applied academic skills, interpersonal skills, and information use skills. &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width: 50%; vertical-align: top; background-color: #5b9fce;"&gt;
+&lt;h4&gt;&lt;span style="color: #000000; text-decoration: underline;"&gt;Correct Objective Topic&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;Workforce Preparation/Employability Skills&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;If you have reviewed all of the objectives, click the next arrow to continue. If not, go back to review the other objectives.&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1530814474</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1281">
+        <pagenum>7</pagenum>
+        <subchapter>0</subchapter>
+        <title>Integrating Learning Objectives Conclusion</title>
+        <content>&lt;h4&gt;Lesson: Creating a Brochure for a Fitness Program&lt;/h4&gt;
+&lt;h4&gt;Conclusion&lt;/h4&gt;
+&lt;p&gt;This lesson is an example of a contextualized lesson. The lesson provides students an opportunity to learn and practice specific writing (ELA), interpersonal and information use (Workforce Preparation Activities/Employability Skills) and apply them in the context of health and physical education information (subject content).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Select the arrow button to finish this lesson and exit to the Integrating Learning Objectives Lesson page.&lt;/strong&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1528315999</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="180" moduleid="7384" modulename="book" contextid="29054">
+  <book id="180">
+    <name>Session 1 Reflection Questions</name>
+    <intro>&lt;p&gt;Reflection questions&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505176586</timecreated>
+    <timemodified>1511985344</timemodified>
+    <chapters>
+      <chapter id="1258">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Reflection questions</title>
+        <content>&lt;p&gt;Look over your lessons and the completed checklist. Consider reflecting on these questions in a journal or sharing with others in the &lt;a href="https://community.lincs.ed.gov/discussion/online-course-workforce-preparation-activities-classroom"&gt;LINCS Community&lt;/a&gt; discussion thread.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which employability skills are more typically addressed in your lessons?&lt;/li&gt;
+&lt;li&gt;Where do you see gaps and opportunity to embed the practice of employability skills?&lt;/li&gt;
+&lt;li&gt;Do your lessons introduce many employability skills, jumping from one to the next, or do students have a chance to practice the skills in varied activities and develop deeper competency?&lt;/li&gt;
+&lt;li&gt;Can you do more to engage students in identifying these skills, reflecting on their importance and considering their multiple, transferable uses /contexts?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="500" height="333" alt="Photo of hand poised to write on a notepad with the question What’s Your Plan?" src="@@PLUGINFILE@@/77973109_m.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;span style="color: #693300; font-family: verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;After you have shared your thoughts, continue to Session 1 Conclusion.&lt;/span&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506459965</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>

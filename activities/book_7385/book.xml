@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="181" moduleid="7385" modulename="book" contextid="29055">
+  <book id="181">
+    <name>Session 1 Conclusion</name>
+    <intro>&lt;p&gt;Session 1 Conclusion&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <customtitles>0</customtitles>
+    <timecreated>1505176628</timecreated>
+    <timemodified>1511985358</timemodified>
+    <chapters>
+      <chapter id="1259">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Reflection questions</title>
+        <content>&lt;p&gt;Look over your lessons and the completed checklist. Consider reflecting on these questions in a journal or sharing with others in the LINCS Community of Practice discussion thread.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which employability skills are more typically addressed in your lessons?&lt;/li&gt;
+&lt;li&gt;Where do you see gaps and opportunity to embed the practice of employability skills?&lt;/li&gt;
+&lt;li&gt;Do your lessons introduce many employability skills, jumping from one to the next, or do students have a chance to practice the skills in varied activities and develop deeper competency?&lt;/li&gt;
+&lt;li&gt;Can you do more to engage students in identifying these skills, reflecting on their importance and considering their multiple, transferable uses /contexts?&lt;/li&gt;
+&lt;/ul&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>1</hidden>
+        <timemodified>1505176653</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1260">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Session 1: Summary</title>
+        <content>&lt;p&gt;This session covered the following points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Employability skills, along with academic and technical skills, are a critical component of college and career readiness.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Identifying employability skills that are embedded in classroom practice helps students to understand the concept of transferable skills (related to their own goals) and make the connection between education and employment/workplace goals (where this is relevant to their goals).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Opportunities exist for teachers to integrate employability skills in everyday lessons and in every content area/subject.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Development of workforce preparation and employability skills, like any skills, requires review, reinforcement, and ongoing practice over time.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Workforce preparation and employability skills are mutually reinforcing and overlapping. While it’s important increase your and your students awareness of employability skills, they are overlapping and activities, lessons, and units can address multiple skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="color: #693300; font-family: Verdana; font-size: small;" face="Verdana" size="2" color="#693300"&gt;Continue to Session 2 Overview and Learning Objectives.&lt;/span&gt;&lt;br clear="all" /&gt; &lt;span style="font-family: Times New Roman; font-size: medium;" face="Times New Roman" size="3"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="Prompt"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1506460043</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+  </book>
+</activity>
